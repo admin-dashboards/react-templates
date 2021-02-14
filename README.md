@@ -27,8 +27,8 @@ Material Dashboard React is a free Material-UI Admin with a fresh, new design in
 
 <br />
 
-- Material Dashboard React - product page
-- Material Dashboard Pro React - more pages and components
+- [Material Dashboard React](https://bit.ly/36LDZyo) - product page
+- **[Material Dashboard Pro React](https://bit.ly/3o8InNN) - more pages and components**
 
 <br />
 
